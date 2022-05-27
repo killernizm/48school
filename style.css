@@ -4,8 +4,10 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
-  background: #1A202C;
 } 
+body{
+  background: #1A202C;
+}
 nav{
   display: flex;
   height: 80px;
